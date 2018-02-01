@@ -1,2 +1,2 @@
-# projects-vps_benchmarking
-A set of system, R and MySQL benchmark to help comparing different servers among different providers
+## VPS benchmarking
+A set of Linux, R and MySQL benchmarks to help comparing different servers among different providers
